@@ -1,0 +1,20 @@
+# Compiled binaries and intermediate build products
+*.o
+*.elf
+*.map
+*.lst
+*.obj
+*.exe
+*.out
+*.d
+
+# Local editor, operating system and temporary files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*~
+*.swp
+
+# Transient log files
+*.log

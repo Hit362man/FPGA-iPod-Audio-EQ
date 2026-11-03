@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FPGA iPod Audio Equalizer — 16-Band IIR EQ
 
 A hardware-connected, real-time stereo audio equalizer and effects processor built in C for the **DE1-SoC FPGA development board**. The project processes samples from the board's audio peripheral, supports 16 adjustable frequency bands and optional echo/reverb, and presents a live VGA equalizer interface controlled with a PS/2 keyboard.
@@ -87,3 +88,6 @@ The C sources were checked with a host compiler to catch syntax, symbol and link
 - Add a short video or photograph of the equalizer running on the DE1-SoC board.
 - Record measured sampling rate, audio latency and frequency response.
 - Add automated offline tests for the DSP components.
+=======
+# FPGA-iPod-Audio-EQ
+>>>>>>> dec67f271c1c849d5b3dfbfe164cb721fc8bc78a
